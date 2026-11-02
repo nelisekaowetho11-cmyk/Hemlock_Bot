@@ -3,7 +3,7 @@
 ## 🔥 HEMLOCK_BOT 🔥
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=42&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&lines=This+Bot+was+Created+by+Hemlock_Protocol;A+Powerful+Bot+used+to+Rule+your+Groups;Please+put+the+Star+and+Fork+if+you+like+my+bot" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=42&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&lines=This+Bot+was+Created+by+Hemlock_Protocol;A+Powerful+Bot+used+to+Rule+your+Groups;+put+the+Star+and+Fork+if+you+like+my+bot" alt="Typing SVG" /></a>
 </p>
 
 <p>
